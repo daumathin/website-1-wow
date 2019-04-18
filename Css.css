@@ -1,0 +1,294 @@
+@charset "utf-8";
+@import url("LifeCraft_Font/stylesheet.css");
+/* CSS Document */
+
+@font-face {
+	font-family: 'LifeCraft Font';
+	src: url('LifeCraft_Font.ttf') format('truetype');
+}
+
+body {
+	background-color: #F9F9F9;
+	background-image:url(afb/Trees_1920x1234.png);
+	color: #000000;
+	font-family: allerta;
+	font-style: normal;
+	font-weight: 400;
+}
+
+header {
+	border: medium solid #000000;
+	background-color: #D1BB91;
+	background-image:url(afb/Light%20wood.jpeg);
+	margin-top: 50px;
+	}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+
+.logo {
+	width: 131px;
+	height: 147px;
+	display: marker;
+	float: left;
+	margin-top: -41px;
+	margin-right: 2px;
+	margin-left: 40px;
+	margin-bottom: -60px;
+}
+
+nav {
+	float: right;
+}
+
+
+nav ul {
+	margin: 0;
+	padding-top: 29px;
+	padding-right: 29px;
+	padding-left: 29px;
+	padding-bottom: 29px;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 90px;
+	padding-top: 0px;
+	margin-top: -27px;
+	margin-right: 150px;
+}
+
+nav a {
+	color: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: "LifeCraft Font";
+	font-weight: bold;
+	font-size: x-large;
+	font-family: "LifeCraft Font";
+}
+
+nav a:hover{
+	color: #4A1D1D;	
+}
+
+.banner {
+	margin-top: 24px;
+	border: medium solid #000000;
+	display: run-in;
+	width: 100%;
+}
+
+
+
+
+
+.container {
+	margin-top: -7px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-image: url(afb/Background%20tewt.jpg);
+	border-width: thin;
+	border-style: solid;
+	padding-bottom: 235px;
+	overflow:hidden;
+}
+
+h1 {
+	margin-left: 50px;
+	font-style: normal;
+	font-weight: 800;
+	font-family: "LifeCraft Font";
+}
+
+h2 {
+	margin-left: 50px;
+	margin-under: -10px;
+
+}
+
+h3 {
+	margin-left: 50px;
+	margin-right: -59px;
+}
+
+.afbeeldingazeroth {
+	margin-left: 50px;
+	float: left;
+	padding-right: 0px;
+	border-width: medium;
+	border-style: solid;
+	margin-right: 24px;
+}
+
+.Portaal {
+	margin-right: 50px;
+	margin-top: 10px;	
+	float: right;
+	padding-left: 0px;
+	border-width: medium;
+	border-style: solid;
+}
+
+.guldan {
+	margin-left: 50px;
+	float: left;
+	padding-right: 0px;
+	border-width: medium;
+	border-style: solid;
+	
+}
+
+	
+
+
+p {
+	margin-left: 50px;	
+	margin-right: 50px;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #212121;
+}
+
+
+
+
+
+footer {
+	float: left;
+	margin-left: 50px;
+	bottom: 0;
+	position:relative;	
+}
+
+.gif {
+	float: left;
+	margin-left: 50px;
+	display: block;
+	padding-right: 1024px;
+}
+
+.video {
+	margin-left: 50px;
+	
+}
+
+
+.table1 {
+	table-layout: relative;
+	margin-top: 9px;
+	margin-bottom: 0px;
+	float: center;
+	padding-top: 1px;
+	padding-right: 0px;
+	padding-left: 0px;
+	display: inherit;
+	margin-left: 50px;
+	border-spacing: 82px;
+	clear:right;
+	text-align: center;
+	background-image:url(afb/DE4JMA.jpg);
+}
+
+th {
+	padding-right: 44px;
+	padding-left: 0px;
+	text-align: center;	
+}
+
+table, th, td {
+	border: 0px solid #000;
+	border-collapse: collapse;	
+}
+	
+	th, td {	
+}
+
+
+
+.tablefoto {
+	border-style: solid;
+	border-color: #010101;
+	text-align: center;
+	margin-left: 50px;
+}
+
+.tablefoto2 {
+	text-align: right;
+	margin-left: 50px;
+	
+}
+
+.tablefront {
+	padding: 15px;	
+}
+
+.tabletext {
+	font-size: large;	
+}
+
+
+
+
+
+form {
+	width: 300px;
+	margin-left: 50px;
+}
+
+input {
+	width: 100%;
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+
+textarea {
+	resize:none;
+	width: 400px;
+	height: 300px;
+}
+
+textarea:focus, input:focus {
+	box-shadow: #00FF2C;
+	border: thin solid #010101;
+}
+
+::placeholder {
+	color: green;
+}
+
+.gnome{
+	float: right;
+	margin-right: 70px;
+	border: medium solid #000000;
+}
+
+.bfafoto {
+	float: right;
+	margin-top: 50px;
+	margin-right: 70px;
+	border: medium solid #000000;
+}
+
+
+.lijst {
+	margin-left: 50px;
+}
+
+.pebble {
+	margin-right:50px;
+	margin-left: 50px;
+	float: left;
+	
+}
+
+
+

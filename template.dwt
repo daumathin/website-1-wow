@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+
+<title>template</title>
+
+<!-- TemplateEndEditable -->
+
+<link href="Css.css" rel="stylesheet" type="text/css">
+
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/allerta:n4:default.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+
+<header>
+<img src="afb/Wow icoon.png" alt="logo" class="logo">
+<div id="header">
+
+<nav>
+
+<ul>
+<li><a href="home.html">home</a></li>
+<li><a href="Warcraft.html">Warcraft</a></li>
+<li><a href="overons.html">over ons</a></li>
+<li><a href="contact.html">contact</a></li>
+</ul>
+
+
+</nav>
+</header>
+</div>
+<p><img src="afb/WOw banner reso.jpeg" alt="banner" width="100%" class="banner"></p>
+<!-- TemplateBeginEditable name="Body" -->Body
+
+
+
+
+
+
+
+<div id="maincontent"> </div>
+
+
+<!-- TemplateEndEditable -->
+
+
+
+<footer>
+<div id="footer"></div>
+<p>Copyright &copy; Warcraft Gids 2019. Alle rechten voorbehouden.
+
+</p>
+
+
+
+
+</footer>
+</body>
+</html>
